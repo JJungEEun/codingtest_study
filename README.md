@@ -1,2 +1,2 @@
-# ct_study
+# codingtest_study
 coding test study
